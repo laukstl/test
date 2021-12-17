@@ -1,4 +1,6 @@
 # test
 my first repo!
 
-Just learning !
+Just learning!
+
+Have a nice day!
